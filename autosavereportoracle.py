@@ -5,7 +5,7 @@ import pyautogui as pg
 import  webbrowser as wb
 import time
 
-url = 'http://192.168.1.160/reportoracle/frm_DialyReportByCustomer.aspx'
+url = 'http://192.168.0.1/reportoracle/frm_DialyReportByCustomer.aspx'
 def startSaveData():
     
     # Select Organization:
